@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @curriejames
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# James Currie
+### **Currie's Steak House Tip Calculator**
+*This is my efficient tip calculator* 
 
-<!---
-curriejames/curriejames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Step one run the code
+- Step two enter the number of your party
+- Step three enter the cost of meal
+- Step four enter tip percent number
+- Step five it tells you how much is the tip
+- Step six it tells you how much each person has to pay for the tip
+
+
+
